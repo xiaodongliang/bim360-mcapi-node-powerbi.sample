@@ -1,3 +1,8 @@
+```diff
+
+-   Note:  this repository has been posted to https://github.com/Autodesk-Forge/forge-bim360-clash-powerbi. Please check latest version there.
+```
+
 # BIM 360 Model Coordination: PowerBI report
 
 This repository demonstrates the scenario: analyze clash data and clash issue by BIM 360 Model Coordination API with [PowerBI](https://powerbi.microsoft.com/en-us/). It includes 2 modules:
