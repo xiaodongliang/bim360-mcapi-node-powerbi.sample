@@ -1,8 +1,7 @@
-```diff
 
-Note:  this repository has been posted to [https://github.com/Autodesk-Forge/forge-bim360-clash-powerbi](https://github.com/Autodesk-Forge/forge-bim360-clash-powerbi). 
-Please check latest version there.
-```
+**Note:  this repository has been posted to [https://github.com/Autodesk-Forge/forge-bim360-clash-powerbi](https://github.com/Autodesk-Forge/forge-bim360-clash-powerbi). 
+Please check latest version there.**
+
 
 # BIM 360 Model Coordination: PowerBI report
 
